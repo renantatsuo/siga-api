@@ -1,0 +1,17 @@
+{
+  "name": "siga-api",
+  "version": "0.0.1",
+  "description": "REST API built on top of SIGA",
+  "main": "index.js",
+  "repository": "git@github.com:renantatsuo/siga-api.git",
+  "author": "renantatsuo <tatsuorenan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "luxon": "^1.12.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "tough-cookie": "^3.0.1"
+  }
+}
